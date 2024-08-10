@@ -4,7 +4,7 @@
 ## Customer Performance Report
 
 **Objective:**
-- Develop a comprehensive [Customer Performance Report](https://github.com/PeterWilliam1405/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf) and perform an in-depth analysis comparing [market performance with sales targets](https://github.com/PeterWilliam1405/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf).
+- Develop a comprehensive [Customer Performance Report](https://github.com/PeterWilliam1405/Excel-Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf) and perform an in-depth analysis comparing [market performance with sales targets](https://github.com/PeterWilliam1405/Excel-Sales-Analytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf).
 
 **Purpose of Sales Analytics:**
 - Empower businesses to monitor and evaluate their sales activities and overall performance.
@@ -18,7 +18,7 @@
 ## Finance Report
 
 **Objective:**
-- Create detailed Profit and Loss (P&L) statements segmented by [Fiscal Year](https://github.com/PeterWilliam1405/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf), [Months](https://github.com/PeterWilliam1405/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Months.pdf), and [Markets](https://github.com/PeterWilliam1405/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Markets.pdf).
+- Create detailed Profit and Loss (P&L) statements segmented by [Fiscal Year](https://github.com/PeterWilliam1405/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf), [Months](https://github.com/PeterWilliam1405/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Months.pdf), and [Markets](https://github.com/PeterWilliam1405/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Markets.pdf).
 
 **Purpose of Sales Analytics:**
 - Facilitate the evaluation of financial performance, support strategic decision-making, and enhance communication with stakeholders.
